@@ -1,0 +1,1 @@
+comidas = [['frijoles', 22500], ['lasaña', 18000], ['Tinto', 1000], ['guarapo', 2000], ['helado', 4000]]
